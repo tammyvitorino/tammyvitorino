@@ -49,6 +49,9 @@
   </tr>
 </table>
 <hr>
+
+![](https://raw.githubusercontent.com/tammyvitorino/tammyvitorino/66edc35fb6165f41ceb2975f4221a664c743415d/github-contribution-grid-snake.svg)
+
 <!-- ![Tammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tammyvitorino&show_icons=true&theme=omni )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tammyvitorino&layout=compact)](https://github.com/tammyvitorino/github-readme-stats) -->
+<-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tammyvitorino&layout=compact)](https://github.com/tammyvitorino/github-readme-stats) -->
