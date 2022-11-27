@@ -49,6 +49,8 @@
   </tr>
 </table>
 <hr>
-<!-- ![Tammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tammyvitorino&show_icons=true&theme=omni )
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tammyvitorino&layout=compact)](https://github.com/tammyvitorino/github-readme-stats) -->
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=tammyvitorino)](https://github.com/tammyvitorino/github-readme-activity-graph)
+
+<!-- ![Tammy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tammyvitorino&show_icons=true&theme=omni ) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tammyvitorino&layout=compact)](https://github.com/tammyvitorino/github-readme-stats) -->
